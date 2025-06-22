@@ -8,3 +8,6 @@ This is a Bash script that can analyse basic server performance stats. It should
     Top 5 processes by memory usage
 
 To this script works on linux server.
+
+
+https://roadmap.sh/projects/server-stats
